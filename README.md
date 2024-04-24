@@ -1,4 +1,4 @@
-### Hi there 👋
+### I've been writing code over 50 years, and now I'm finally starting to work with a version control system. We'll see hot it goes...
 
 <!--
 **dmsteves/dmsteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
